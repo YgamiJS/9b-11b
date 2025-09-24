@@ -1,22 +1,22 @@
 {
-    "name": "Домашние задания 9 Б",
-    "short_name": "Домашние задания 9 Б",
-    "description": "Домашние задания 9 Б",
+    "name": "Домашние задания 10 Б",
+    "short_name": "Домашние задания 10 Б",
+    "description": "Домашние задания 10 Б",
     "icons": [
         {
-            "src": "./assets/images/c9b32.png",
+            "src": "./assets/images/c10b32.jpg",
             "sizes": "32x32",
-            "type": "image/png"
+            "type": "image/jpg"
         },
         {
-            "src": "./assets/images/c9b144.png",
+            "src": "./assets/images/c10b144.jpg",
             "sizes": "144x144",
-            "type": "image/png"
+            "type": "image/jpg"
         },
         {
-            "src": "./assets/images/c9b512.png",
+            "src": "./assets/images/c10b512.jpg",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/jpg"
         }
     ],
     "start_url": ".",
@@ -24,3 +24,4 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff"
 }
+
